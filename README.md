@@ -24,3 +24,9 @@ $ ./gradlew build
 # Runs the application (main).
 $ ./gradlew run
 ```
+
+You can also use Gradle to run formatting and analysis checks:
+
+```bash
+$ ./gradlew check
+```
